@@ -1,0 +1,11 @@
+{
+  "name": "emac",
+  "version": "0.0.0",
+  "description": "My testing site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eric McAllister",
+  "license": "ISC"
+}
